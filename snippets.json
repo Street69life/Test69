@@ -1,0 +1,54 @@
+{
+    "languages": [
+        {
+            "name": "Python",
+            "snippets": [
+                {
+                    "title": "Hello, World!",
+                    "code": "print(\"Hello, World!\")",
+                    "explanation": "This is the classic 'Hello, World!' program in Python. The `print()` function is used to display text to the console."
+                }
+            ]
+        },
+        {
+            "name": "PHP",
+            "snippets": [
+                {
+                    "title": "Hello, World!",
+                    "code": "<?php\necho \"Hello, World!\";",
+                    "explanation": "This is the classic 'Hello, World!' program in PHP. The `echo` statement is used to output text to the browser or command line."
+                }
+            ]
+        },
+        {
+            "name": "Bash",
+            "snippets": [
+                {
+                    "title": "Hello, World!",
+                    "code": "echo \"Hello, World!\"",
+                    "explanation": "This is the classic 'Hello, World!' program in Bash scripting. The `echo` command is used to display a line of text."
+                }
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "snippets": [
+                {
+                    "title": "Hello, World!",
+                    "code": "console.log(\"Hello, World!\");",
+                    "explanation": "This is the classic 'Hello, World!' program in JavaScript. The `console.log()` method is used to display output in the browser's developer console or in a Node.js environment."
+                }
+            ]
+        },
+        {
+            "name": "Kotlin",
+            "snippets": [
+                {
+                    "title": "Hello, World!",
+                    "code": "fun main() {\n    println(\"Hello, World!\")\n}",
+                    "explanation": "This is the classic 'Hello, World!' program in Kotlin. The `println()` function prints the given message and a newline to the standard output."
+                }
+            ]
+        }
+    ]
+}
