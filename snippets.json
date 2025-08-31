@@ -49,6 +49,16 @@
                     "explanation": "This is the classic 'Hello, World!' program in Kotlin. The `println()` function prints the given message and a newline to the standard output."
                 }
             ]
+        },
+        {
+            "name": "Java",
+            "snippets": [
+                {
+                    "title": "Hello, World!",
+                    "code": "public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}",
+                    "explanation": "This is the classic 'Hello, World!' program in Java. The `System.out.println()` method is used to print text to the console."
+                }
+            ]
         }
     ]
 }

@@ -19,6 +19,7 @@ LANG_CONFIG = {
     "php": {"extension": ".php", "command": ["php"]},
     "bash": {"extension": ".sh", "command": ["bash"]},
     "kotlin": {"extension": ".kt", "command": ["kotlinc", "-script"]},
+    "java": {"extension": ".java", "command": ["java"]},
 }
 
 @app.route('/execute', methods=['POST'])
